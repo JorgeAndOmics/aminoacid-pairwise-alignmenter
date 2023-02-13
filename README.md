@@ -1,5 +1,4 @@
-# 
-# Peptide Pairwise Alignmenter
+# Aminoacid Pairwise Alignmenter
 
 This script provides a simple and easy-to-use tool for performing sequence alignments between two amino acid sequences. The tool supports three different algorithms (Smith-Waterman, Needleman-Wunsch, and BLAST), and provides visual and export options for the results.
 
